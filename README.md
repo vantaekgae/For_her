@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,7 +18,7 @@
 </head>
 <body>
     <header>
-        <h1>Happy [Birthday], [Love]!</h1>
+        <h1>Happy Birthday, Love!</h1>
         <p>This is my gift to you – a little corner of the internet just for us.</p>
     </header>
     
@@ -30,7 +30,7 @@
     <section id="memories">
         <h2>Our Memories</h2>
         <div class="memory">
-            <img src="https://via.placeholder.com/200x150?text=Your+First+Date" alt="First Date">
+            <img src="https://pasteboard.co/z5DuofHqPH9D.png/200x150?text=Your+First+Date" alt="First Date">
             <img src="https://via.placeholder.com/200x150?text=Vacation+Pic" alt="Vacation">
             <img src="https://via.placeholder.com/200x150?text=Anniversary" alt="Anniversary">
             <!-- Replace with your own image URLs -->
